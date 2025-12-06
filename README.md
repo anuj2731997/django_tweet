@@ -11,8 +11,8 @@ Minimal Django app that supports: **signup (register)**, **login**, **logout**, 
 
 ### Clone the repository
 ```bash
-git clone https://github.com/Leon-glitch-png/django_learning.git
-cd django_learning
+git clone https://github.com/Leon-glitch-png/django_tweet.git
+cd django_tweet
 ````
 
 ---
